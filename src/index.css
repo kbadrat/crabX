@@ -507,7 +507,7 @@ nav {
 
 .roadmap {
     background-color: #d6e9ff;
-    background-image: url(roadmap2.svg);
+    background-image: url("/roadmap2.svg");
     background-repeat: no-repeat;
     padding-top: 122px;
     padding-bottom: 233px;
@@ -813,7 +813,7 @@ nav {
     /* Roadmap */
 
     .roadmap {
-        background-image: url(roadmap-mob.svg);
+        background-image: url("/roadmap-mob.svg");
         background-repeat: no-repeat;
         background-position: center;
         background-position-y: 5%;
